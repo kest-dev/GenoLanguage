@@ -1,2 +1,2 @@
 # GenoLanguage
- A test language I'm developing
+ A toy language for exploring and understanding programming languages.
